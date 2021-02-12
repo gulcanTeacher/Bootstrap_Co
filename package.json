@@ -1,0 +1,19 @@
+{
+  "name": "coursera_bootstrap",
+  "version": "1.0.0",
+  "description": "This is a test directory to learn Git and Node",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gulcanTeacher/Bootstrap_Co.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gulcanTeacher/Bootstrap_Co/issues"
+  },
+  "homepage": "https://github.com/gulcanTeacher/Bootstrap_Co#readme"
+}
